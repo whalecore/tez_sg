@@ -1,0 +1,806 @@
+{
+  "success": true,
+  "serverName": "zeus.teztour.com",
+  "cities": [
+    {
+      "countryId": 156505,
+      "cityId": 75187,
+      "name": "Constanta"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 262926,
+      "name": "Абакан"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 5200,
+      "name": "Актобе"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 2707,
+      "name": "Алматы"
+    },
+    {
+      "countryId": 156505,
+      "cityId": 75193,
+      "name": "Арад"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2513,
+      "name": "Архангельск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 8759,
+      "name": "Астрахань"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1774,
+      "name": "Барнаул"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2527,
+      "name": "Белгород"
+    },
+    {
+      "countryId": 26358,
+      "cityId": 12795,
+      "name": "Бишкек"
+    },
+    {
+      "countryId": 15147,
+      "cityId": 12384,
+      "name": "Брест"
+    },
+    {
+      "countryId": 156505,
+      "cityId": 9001185,
+      "name": "Бухарест"
+    },
+    {
+      "countryId": 26278,
+      "cityId": 4102819,
+      "name": "Варна"
+    },
+    {
+      "countryId": 20157,
+      "cityId": 4800,
+      "name": "Вильнюс"
+    },
+    {
+      "countryId": 15147,
+      "cityId": 2548,
+      "name": "Витебск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1887,
+      "name": "Владивосток"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2552,
+      "name": "Волгоград"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2591,
+      "name": "Воронеж"
+    },
+    {
+      "countryId": 15147,
+      "cityId": 4387,
+      "name": "Гомель"
+    },
+    {
+      "countryId": 15147,
+      "cityId": 293302,
+      "name": "Гродно"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 127484,
+      "name": "Грозный"
+    },
+    {
+      "countryId": 14375,
+      "cityId": 6529,
+      "name": "Днепр"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2729,
+      "name": "Екатеринбург"
+    },
+    {
+      "countryId": 14375,
+      "cityId": 3656,
+      "name": "Запорожье"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2833,
+      "name": "Иркутск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1107,
+      "name": "Казань"
+    },
+    {
+      "countryId": 420736,
+      "cityId": 257707,
+      "name": "Каир"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 30693,
+      "name": "Караганды"
+    },
+    {
+      "countryId": 20157,
+      "cityId": 42875,
+      "name": "Каунас"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2802,
+      "name": "Кемерово"
+    },
+    {
+      "countryId": 14375,
+      "cityId": 3667,
+      "name": "Киев"
+    },
+    {
+      "countryId": 21470,
+      "cityId": 1002131,
+      "name": "Кишинёв"
+    },
+    {
+      "countryId": 156505,
+      "cityId": 75189,
+      "name": "Клуж-Напока"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 3008373,
+      "name": "Костанай"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2141,
+      "name": "Краснодар"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1697,
+      "name": "Красноярск"
+    },
+    {
+      "countryId": 14375,
+      "cityId": 17151,
+      "name": "Львов"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 73348,
+      "name": "Магнитогорск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 9410,
+      "name": "Махачкала"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 27272,
+      "name": "Минеральные Воды"
+    },
+    {
+      "countryId": 15147,
+      "cityId": 786,
+      "name": "Минск"
+    },
+    {
+      "countryId": 15147,
+      "cityId": 331488,
+      "name": "Могилев"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 345,
+      "name": "Москва"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1910,
+      "name": "Мурманск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 4316,
+      "name": "Набережные Челны"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1190,
+      "name": "Нижневартовск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1229,
+      "name": "Нижнекамск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 392,
+      "name": "Нижний Новгород"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 4206,
+      "name": "Новокузнецк"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2190,
+      "name": "Новосибирск"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 18992,
+      "name": "Нур-Султан"
+    },
+    {
+      "countryId": 14375,
+      "cityId": 3669,
+      "name": "Одесса"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2672,
+      "name": "Омск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 4000,
+      "name": "Оренбург"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1392,
+      "name": "Пермь"
+    },
+    {
+      "countryId": 14374,
+      "cityId": 523,
+      "name": "Рига"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 3711,
+      "name": "Ростов-на-Дону"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 412,
+      "name": "Самара"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 521,
+      "name": "Санкт-Петербург"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2039,
+      "name": "Саратов"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 135806,
+      "name": "Семей"
+    },
+    {
+      "countryId": 26278,
+      "cityId": 11870,
+      "name": "София"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 4448,
+      "name": "Сочи"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2634,
+      "name": "Ставрополь"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 2680,
+      "name": "Сургут"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 3066,
+      "name": "Сыктывкар"
+    },
+    {
+      "countryId": 20031,
+      "cityId": 3746,
+      "name": "Таллин"
+    },
+    {
+      "countryId": 156505,
+      "cityId": 9001187,
+      "name": "Тимишоара"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1717,
+      "name": "Томск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1776,
+      "name": "Тюмень"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1813,
+      "name": "Ульяновск"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 39792,
+      "name": "Усть-Каменогорск"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 3429,
+      "name": "Уфа"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 3434,
+      "name": "Хабаровск"
+    },
+    {
+      "countryId": 14375,
+      "cityId": 1421,
+      "name": "Харьков"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 1754,
+      "name": "Челябинск"
+    },
+    {
+      "countryId": 19832,
+      "cityId": 50415,
+      "name": "Шымкент"
+    },
+    {
+      "countryId": 1102,
+      "cityId": 3003419,
+      "name": "Элиста"
+    },
+    {
+      "countryId": 156505,
+      "cityId": 5100566,
+      "name": "Яссы"
+    }
+  ],
+  "countries": [
+    {
+      "countryId": 147573,
+      "name": "Австрия"
+    },
+    {
+      "countryId": 257195,
+      "name": "Андорра"
+    },
+    {
+      "countryId": 4106029,
+      "name": "Беларусь"
+    },
+    {
+      "countryId": 158976,
+      "name": "Болгария"
+    },
+    {
+      "countryId": 128573,
+      "name": "Венгрия"
+    },
+    {
+      "countryId": 7067498,
+      "name": "Греция"
+    },
+    {
+      "countryId": 1001354,
+      "name": "Грузия"
+    },
+    {
+      "countryId": 111241,
+      "name": "Доминикана"
+    },
+    {
+      "countryId": 5732,
+      "name": "Египет"
+    },
+    {
+      "countryId": 158062,
+      "name": "Индонезия"
+    },
+    {
+      "countryId": 5733,
+      "name": "Испания"
+    },
+    {
+      "countryId": 154020,
+      "name": "Италия"
+    },
+    {
+      "countryId": 7067673,
+      "name": "Кипр"
+    },
+    {
+      "countryId": 140009,
+      "name": "Китай"
+    },
+    {
+      "countryId": 111137,
+      "name": "Куба"
+    },
+    {
+      "countryId": 146695,
+      "name": "Латвия"
+    },
+    {
+      "countryId": 3013008,
+      "name": "Маврикий"
+    },
+    {
+      "countryId": 166775,
+      "name": "Мальдивы"
+    },
+    {
+      "countryId": 162875,
+      "name": "Мексика"
+    },
+    {
+      "countryId": 7067149,
+      "name": "ОАЭ"
+    },
+    {
+      "countryId": 132579,
+      "name": "Португалия"
+    },
+    {
+      "countryId": 150601,
+      "name": "Россия"
+    },
+    {
+      "countryId": 6030845,
+      "name": "Сейшелы"
+    },
+    {
+      "countryId": 12695,
+      "name": "Таиланд"
+    },
+    {
+      "countryId": 136609,
+      "name": "Тунис"
+    },
+    {
+      "countryId": 1104,
+      "name": "Турция"
+    },
+    {
+      "countryId": 136683,
+      "name": "Франция"
+    },
+    {
+      "countryId": 138865,
+      "name": "Шри-Ланка"
+    },
+    {
+      "countryId": 513974,
+      "name": "Эстония"
+    }
+  ],
+  "currencies": [
+    {
+      "currencyId": 5561,
+      "name": "Доллар США",
+      "code": "USD"
+    },
+    {
+      "currencyId": 8390,
+      "name": "Рубль",
+      "code": "RUR"
+    },
+    {
+      "currencyId": 18864,
+      "name": "Евро",
+      "code": "EUR"
+    },
+    {
+      "currencyId": 46688,
+      "name": "Гривна",
+      "code": "UAH"
+    },
+    {
+      "currencyId": 122196,
+      "name": "Казахский тенге",
+      "code": "KZT"
+    },
+    {
+      "currencyId": 141410,
+      "name": "Болгарский лев",
+      "code": "BGN"
+    },
+    {
+      "currencyId": 533067,
+      "name": "Белорусский рубль",
+      "code": "BYN"
+    }
+  ],
+  "hotelClasses": [
+    {
+      "classId": 269506,
+      "name": "Special Cat.",
+      "weight": -9
+    },
+    {
+      "classId": 261942,
+      "name": "Chalet",
+      "weight": -8
+    },
+    {
+      "classId": 389900,
+      "name": "Hostel",
+      "weight": -8
+    },
+    {
+      "classId": 357603,
+      "name": "Villa",
+      "weight": -8
+    },
+    {
+      "classId": 253004,
+      "name": "Ap.Htl",
+      "weight": -7
+    },
+    {
+      "classId": 253005,
+      "name": "Apts",
+      "weight": -6
+    },
+    {
+      "classId": 253006,
+      "name": "Pens",
+      "weight": -5
+    },
+    {
+      "classId": 2566,
+      "name": "1 *",
+      "weight": -4
+    },
+    {
+      "classId": 2567,
+      "name": "2 *",
+      "weight": -1
+    },
+    {
+      "classId": 261485,
+      "name": "2/3*",
+      "weight": 0
+    },
+    {
+      "classId": 588085,
+      "name": "Sanatory",
+      "weight": 0
+    },
+    {
+      "classId": 70486,
+      "name": "2+ *",
+      "weight": 0
+    },
+    {
+      "classId": 32844,
+      "name": "HV-3",
+      "weight": 1
+    },
+    {
+      "classId": 2568,
+      "name": "3 *",
+      "weight": 2
+    },
+    {
+      "classId": 348701,
+      "name": "3* / 4*",
+      "weight": 3
+    },
+    {
+      "classId": 262009,
+      "name": "3* Superior",
+      "weight": 3
+    },
+    {
+      "classId": 70487,
+      "name": "3+ *",
+      "weight": 3
+    },
+    {
+      "classId": 348697,
+      "name": "3* Super",
+      "weight": 3
+    },
+    {
+      "classId": 12703,
+      "name": "HV-2",
+      "weight": 4
+    },
+    {
+      "classId": 348702,
+      "name": "4* Super",
+      "weight": 5
+    },
+    {
+      "classId": 2569,
+      "name": "4 *",
+      "weight": 5
+    },
+    {
+      "classId": 683688,
+      "name": "4* / 5*",
+      "weight": 5
+    },
+    {
+      "classId": 704030,
+      "name": "4* DELUXE",
+      "weight": 5
+    },
+    {
+      "classId": 9016639,
+      "name": "4* Superior",
+      "weight": 5
+    },
+    {
+      "classId": 261798,
+      "name": "HV-1/4*",
+      "weight": 6
+    },
+    {
+      "classId": 271078,
+      "name": "HV-2/4*",
+      "weight": 6
+    },
+    {
+      "classId": 70483,
+      "name": "4+ *",
+      "weight": 7
+    },
+    {
+      "classId": 2570,
+      "name": "5 *",
+      "weight": 8
+    },
+    {
+      "classId": 9005916,
+      "name": "HV-1/5*",
+      "weight": 9
+    },
+    {
+      "classId": 569306,
+      "name": "5* Super",
+      "weight": 9
+    },
+    {
+      "classId": 569307,
+      "name": "5* Superior",
+      "weight": 9
+    },
+    {
+      "classId": 348703,
+      "name": "5* Deluxe",
+      "weight": 9
+    },
+    {
+      "classId": 569308,
+      "name": "Apts Deluxe",
+      "weight": 9
+    },
+    {
+      "classId": 2571,
+      "name": "HV-1",
+      "weight": 9
+    }
+  ],
+  "rAndBs": [
+    {
+      "id": 15350,
+      "name": "Размещение без питания",
+      "weight": 0,
+      "nationalNameId": 101564,
+      "sortOrder": 0
+    },
+    {
+      "id": 2424,
+      "name": "Только завтраки",
+      "weight": 1,
+      "nationalNameId": 101558,
+      "sortOrder": 1
+    },
+    {
+      "id": 2474,
+      "name": "Завтрак и ужин",
+      "weight": 3,
+      "nationalNameId": 101562,
+      "sortOrder": 3
+    },
+    {
+      "id": 2749,
+      "name": "Завтрак, обед и ужин",
+      "weight": 5,
+      "nationalNameId": 101560,
+      "sortOrder": 5
+    },
+    {
+      "id": 5737,
+      "name": "Все включено",
+      "weight": 7,
+      "nationalNameId": 101556,
+      "sortOrder": 7
+    },
+    {
+      "id": 5738,
+      "name": "Ультра все включено",
+      "weight": 8,
+      "nationalNameId": 101566,
+      "sortOrder": 8
+    }
+  ],
+  "tourTypes": [
+    {
+      "id": 1,
+      "name": "Полный пакет",
+      "haveResidence": true,
+      "haveTransfer": true,
+      "haveFly": true,
+      "haveInsurance": true
+    },
+    {
+      "id": 2,
+      "name": "Проживание+трансфер",
+      "haveResidence": true,
+      "haveTransfer": true,
+      "haveFly": false,
+      "haveInsurance": true
+    },
+    {
+      "id": 3,
+      "name": "Проживание",
+      "haveResidence": true,
+      "haveTransfer": false,
+      "haveFly": false,
+      "haveInsurance": true
+    },
+    {
+      "id": 6,
+      "name": "Проживание+перелет",
+      "haveResidence": true,
+      "haveTransfer": false,
+      "haveFly": true,
+      "haveInsurance": true
+    }
+  ]
+}

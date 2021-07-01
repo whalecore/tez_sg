@@ -1,0 +1,20 @@
+from aiogram.dispatcher.filters.state import State, StatesGroup
+
+class Mailing(StatesGroup):
+    e_mail = State()
+    date_state = State()
+    hotels = State()
+    info = State()
+    form_fill = State()
+    city_choice = State()
+    tourists_num = State()
+    country_choice = State()
+    date_type_pick = State()
+    date_pick = State()
+    month_pick = State()
+    day_pick = State()
+    year_pick = State()
+    top_header = State()
+    bottom_header = State()
+    description = State()
+    image_url = State()

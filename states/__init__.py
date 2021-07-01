@@ -1,0 +1,1 @@
+from .mailing_states import Mailing
